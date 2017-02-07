@@ -1,0 +1,24 @@
+Manually compare differences between two files
+Learn about diff -u command in Mac to compare differences between two files
+Install Sublime
+Create .bash_profile file to launch sublime with 'subl' command from terminal
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Compare two versions
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros and cons
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Different use cases
+
+How can you use the commands git log and git diff to view the history of files?
+git log - history of all commits
+git diff - takes two commit ids and shows insertions and deletions in each commit
+
+How might using version control make you more confident to make changes that could break something?
+Return to previous commits to track bug
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Code version control
+Documents version control
